@@ -34,12 +34,14 @@ public:
     // }
 
     // OR
+    // 
+    // BEST 
 
     Student(int _className, int _roll, double _cgpa)
     {
-        className = _className;
-        roll = _roll;
-        cgpa = _cgpa;
+        this->className = _className;
+        this->roll = _roll;
+        this->cgpa = _cgpa;
     }
 };
 

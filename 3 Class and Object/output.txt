@@ -1,1 +1,12 @@
-Class Name: 3, Roll: 203, CGPA: 3.35
+Assending
+10
+20
+30
+40
+50
+Dessending
+50
+40
+30
+20
+10
