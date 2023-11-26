@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "iostream": "cpp",
+        "functional": "cpp",
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "string_view": "cpp",
+        "regex": "cpp"
+    }
+}
